@@ -1,7 +1,8 @@
 # Sound-Room
 Small Sound Room built around a recliner
 
-The concept is to use 12 inch by 12 inch Soundproof Panels, represented by the squares, you make a frame, 
+The concept is to use 96, 12 inch by 12 inch Soundproof Panels, I found them for $66 at [Amazon](https://www.amazon.com/gp/product/B09RKLX6RT/), 
+represented by the squares, you make a frame, 
 and put the panels on them, on the inside and outside, to stop sound from entering from outside, 
 and to keep sound from echoing around the room you are in.
 
