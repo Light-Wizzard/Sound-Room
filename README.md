@@ -26,8 +26,8 @@ And then store it on top.
 
 Things that will be included in this design:
 
-# Ventalation
-# Lights
-# Microphone boom
-# Micophone holder
-# Laptop, Smartphone, or Tablet holder
+* Ventalation
+* Lights
+* Microphone boom
+* Micophone holder
+* Laptop, Smartphone, or Tablet holder
