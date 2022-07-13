@@ -9,8 +9,8 @@ and to keep sound from echoing around the room you are in.
 
 These images do not show the ventaltaion system yet.
 
-The first image is when the box is closed, it measures 6-foot by 3-foot, and a normal recliner fits inside,
-the concept will include a boom mount for the recorder, and you use a smartphone or table to read from.
+The first image is when the box is closed, it measures 6-foot tall by 4-foot wide, and a normal recliner fits inside,
+the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
 
 ![Image 1](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0001.png)
 
