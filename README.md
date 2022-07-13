@@ -1,5 +1,6 @@
 # Sound-Room
-Small Sound Room built around a recliner
+
+Small Sound Room built around a recliner chair.
 
 The concept is to use 96, 12 inch by 12 inch Soundproof Panels, I found them for $66 at [Amazon](https://www.amazon.com/gp/product/B09RKLX6RT/), 
 represented by the squares, you make a frame, 
@@ -32,3 +33,4 @@ Things that will be included in this design:
 * Microphone boom
 * Micophone holder
 * Laptop, Smartphone, or Tablet holder
+
