@@ -23,3 +23,11 @@ This image shows you remove the front section
 And then store it on top.
 
 ![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/soundroom-0004.png)
+
+Things that will be included in this design:
+
+# Ventalation
+# Lights
+# Microphone boom
+# Micophone holder
+# Laptop, Smartphone, or Tablet holder
