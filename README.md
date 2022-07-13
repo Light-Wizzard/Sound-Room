@@ -18,11 +18,11 @@ This image shows the side doors open.
 
 ![Image 2](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0002.png)
 
-This image shows you remove the front section
+This image shows you remove the front section, by opening up the top.
 
 ![Image 3](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0003.png)
 
-And then store it on top.
+Then store it on back.
 
 ![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0004.png)
 
