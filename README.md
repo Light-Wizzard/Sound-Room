@@ -34,3 +34,5 @@ Things that will be included in this design:
 * Micophone holder
 * Laptop, Smartphone, or Tablet holder
 
+The soundproofing panels attach to a frame, this can plywood, or plastic, it requires an air gap, 
+so you need two panels, plus you need to attach the soundproofing on the inside and outside.
