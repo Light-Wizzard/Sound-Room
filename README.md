@@ -90,3 +90,5 @@ I need two 4" inline fans, and 4" flex hose, for intake and exhaust.
 [4" inline fans](https://www.amazon.com/SAILFLO-Booster-Bathroom-Basement-Greenhouse/dp/B07J5VN82X/), 
 [4" inline fans](https://www.amazon.com/gp/product/B08TM4KCLF/)
 
+![4" Fan](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/fan.png)
+
