@@ -114,6 +114,9 @@ I need some 4" flexible tubing also known as a Dryer hose.
 
 ![Dryer hose](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/hose.png)
 
+I show the intake as Green, it comes in from the bottom,
+whereas the exhaust is taken from the top.
+
 ## Size
 
 The size depends on your needs, mine are simple, I want a Sound Room that my recliner will fit into, and I can stand up, 
