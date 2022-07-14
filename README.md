@@ -82,3 +82,11 @@ if you feel things in your home, you need this isolation from the floor.
 If you cover the inside and outside with foam, you cut down on a lot of sound,
 but without the proper isoloation, you still have loud sounds.
 
+## Ventalation
+
+I need two 4" inline fans, and 4" flex hose, for intake and exhaust.
+
+4" inline fans like these:
+[4" inline fans](https://www.amazon.com/SAILFLO-Booster-Bathroom-Basement-Greenhouse/dp/B07J5VN82X/), 
+[4" inline fans](https://www.amazon.com/gp/product/B08TM4KCLF/)
+
