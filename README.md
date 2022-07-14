@@ -92,3 +92,5 @@ I need two 4" inline fans, and 4" flex hose, for intake and exhaust.
 
 ![4" Fan](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/fan.png)
 
+I need a Motor Speed Controller
+![]()
