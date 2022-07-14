@@ -59,6 +59,8 @@ to give you an idea of cost, and what you want,
 this is marine grade, does not need to be, 
 whatever works and is cheap.
 
+## Concepts
+
 The concept of Sound Proofing, has three main goals:
 
 1. Isolation
