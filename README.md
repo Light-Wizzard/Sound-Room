@@ -137,4 +137,12 @@ but I want to use Neoprene Rubber to wrap this panel in,
 so if I wrap the fiberglass panels,
 I will have a better system.
 
-The Inside is called the Environment Room, this is suspended off of Neoprene
+The Inside is called the Environment Room, this is suspended off of Neoprene spacers,and the outside must only connect to it, using these Sound decoupling spacers.
+You have to design the front wall and add the mount for a monitor, this will also require exhaust air for heat, which will require a heat collector and a holder for a boom microphone, so this panel is what you will be looking at all day, and with no Windows, hang a Picture of outside, but I will not put a glass window to see through in a Sound Room, it defeats the purpose of a Sound Room, why not make a Glass soundproof box.
+
+The walls must have seals, this is going to be part of a frame, this can be made of many materials, 
+Aluminum or Steel, we do not want to use wood, due to the bulk it would require to be strong enough, 
+this must hold the weight of the inside and outside room, plus the person inside it.
+
+
+
