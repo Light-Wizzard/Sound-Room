@@ -30,6 +30,11 @@ This shows it fully open.
 
 ![Image 5](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0005.png)
 
+Ventalation System.
+
+![Image 6](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0006.png)
+
+## Features
 
 Things that will be included in this design:
 
