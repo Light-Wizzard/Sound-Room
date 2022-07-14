@@ -89,6 +89,13 @@ if you feel things in your home, you need this isolation from the floor.
 If you cover the inside and outside with foam, you cut down on a lot of sound,
 but without the proper isoloation, you still have loud sounds.
 
+### Isolation
+
+You will want to use Neopremem Rubber to make an Airtight outter room.
+
+American Material Supply
+[https://americanmaterialsupply.com/collections/neoprene-rubber-roll](https://americanmaterialsupply.com/collections/neoprene-rubber-roll)
+
 ## Ventalation
 
 I need two 4" inline fans, and 4" flex hose, for intake and exhaust.
