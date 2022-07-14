@@ -110,6 +110,3 @@ I need some 4" flexable tubing also known as a Dryer hose.
 
 ![Dryer hose](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/hose.png)
 
-I need a Motor Speed Controller, so we can control the noise level.
-
-![Motor Speed Controller](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/Motor-Controller.png)
