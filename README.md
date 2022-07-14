@@ -30,9 +30,13 @@ This shows it fully open.
 
 ![Image 5](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0005.png)
 
-Ventilation System.
+Back of unit.
 
 ![Image 6](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0006.png)
+
+Ventilation System.
+
+![Image 7](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0007.png)
 
 ## Features
 
