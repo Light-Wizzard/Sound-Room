@@ -3,12 +3,12 @@
 Small Sound Room built around a recliner chair.
 
 Table of Content
-1. [Pictures](https://github.com/Light-Wizzard/Sound-Room/Pictures)
-2. [Features](https://github.com/Light-Wizzard/Sound-Room/Features)
-3. [Concepts](https://github.com/Light-Wizzard/Sound-Room/Concepts)
-4. [Ventalation](https://github.com/Light-Wizzard/Sound-Room?Ventalation)
-5. [Construction](https://github.com/Light-Wizzard/Sound-Room/Construction)
-3. [Sponsporship](https://github.com/Light-Wizzard/Sound-Room/Sponsporship)
+1. [Pictures](#Pictures)
+2. [Features](#Features)
+3. [Concepts](#Concepts)
+4. [Ventalation](#Ventalation)
+5. [Construction](#Construction)
+3. [Sponsporship](#Sponsporship)
 
 
 ### Pictures
