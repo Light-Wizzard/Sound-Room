@@ -68,26 +68,31 @@ whatever works and is cheap.
 
 ## Concepts
 
+The main concept for Sound Proofing, is being relistic about what sounds you can remove,
+I will talk about three types of sounds. 
+
+What most people think of as Sound Proof, is hearing nothing,
+that is goal, but not practical depending on the noise.
+I will call this Isolatoin, and we need to build a room inside a room to achich this.
+
 The concept of Sound Proofing has three main goals:
 
 1. Isolation
 2. Reflection
 3. Background
 
-Isolation is the hardest, this means you hear nothing from outside, to try to achieve this,
-we will make two chambers that mount together with an isolator.
+**Isolation** is the hardest, this means you hear nothing from outside, to try to achieve this,
+we will make two rooms that mount together with an isolator spacer I show in blue.
 
-Reflection is what causes an echo, even in a small room, you have sounds that bounce off the walls, 
-all you need is Soundproofing foam.
+**Reflection** is what causes an echo, even in a small room, you have sounds that bounce off the walls, 
+all you need is Soundproofing foam, and what most people think Soundproofing is,
+but this will not give any isolaton, and only add absorbtion of sound.
 
-Background noise is on the inside, this is your equipment, 
+**Background noise** is on the inside, this is your equipment, 
 and the ventilation system.
 
 There are many types of Soundboards on the market, 
-I am looking for a system that is lite, easy to use, 
-and does not cause any health issues with fibers,
-and fiberglass, will not have these issues, 
-they are completely covered, to begin with.
+but I think Neoprene will work better.
 
 What I want to achieve, is all three. Isolation, making a room inside a room, is the first step,
 this requires a floor, sound can come up from the floor,
@@ -110,6 +115,15 @@ represented by the squares, you make a frame,
 and put the panels on them, on the inside and outside, to stop sound from entering from outside, 
 and to keep sound from echoing around the room you are in.
 
+### Background
+
+You have to deal with each type of equipment noise as you use it, the best things is to start with everything off,
+and using a sound meter, measure the inside, while holding your breath, then turn on the intake, then then exhaust, 
+and use the variable speed controller to lower the sound, while still being able to breathe.
+
+If you have a laptop, you cannot get rid of the fan noise, so a Tablet or Smartphone is a better solution, 
+and you can use a fanless computer.
+
 ## Ventalation
 
 I need two 4" inline fans, and a 4" flex hose, for intake and exhaust.
@@ -127,10 +141,18 @@ I need some 4" flexible tubing also known as a Dryer hose.
 I show the intake as Green, it comes in from the bottom,
 whereas the exhaust is taken from the top.
 
+You will want to use a heavy wire to hold the hose in place, wire clothes hangers, or some type of holder.
+
+You want to use insulation, you want to fully cover all the hose with insulaton to prevent sound from proigating through it,
+and to dampen what sounds are going through it.
+
 ## Size
 
 The size depends on your needs, mine are simple, I want a Sound Room that my recliner will fit into, and I can stand up, 
 so it needs to be 48" wide, 6' long, and 7' tall, on the outside, the inside is a few inches smaller, to allow a 1 inch air gap.
+
+1. Six 4'x7' outside panels
+2. 
 
 ## Construction
 
