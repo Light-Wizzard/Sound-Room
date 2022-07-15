@@ -2,11 +2,16 @@
 
 Small Sound Room built around a recliner chair.
 
-The concept is to use 96, 12 inches by 12-inch Soundproof Panels, I found them for $66 at [Amazon](https://www.amazon.com/gp/product/B09RKLX6RT/), 
-represented by the squares, you make a frame, 
-and put the panels on them, on the inside and outside, to stop sound from entering from outside, 
-and to keep sound from echoing around the room you are in.
+Table of Content
+1. [Pictures](https://github.com/Light-Wizzard/Sound-Room?Pictures)
+2. [Features](https://github.com/Light-Wizzard/Sound-Room?Features)
+3. [Concepts](https://github.com/Light-Wizzard/Sound-Room?Concepts)
+4. [Ventalation](https://github.com/Light-Wizzard/Sound-Room?Ventalation)
+5. [Construction](https://github.com/Light-Wizzard/Sound-Room?Construction)
+3. [Sponsporship](https://github.com/Light-Wizzard/Sound-Room?Sponsporship)
 
+
+### Pictures
 The first image is when the box is closed, it measures 7-foot tall by 4-foot wide, and a normal recliner fits inside,
 the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
 
@@ -98,6 +103,13 @@ You will want to use Neoprene Rubber to make an Airtight outer room.
 American Material Supply
 [https://americanmaterialsupply.com/collections/neoprene-rubber-roll](https://americanmaterialsupply.com/collections/neoprene-rubber-roll)
 
+### Reflection
+
+The concept is to use 96, 12 inches by 12-inch Soundproof Panels, I found them for $66 at [Amazon](https://www.amazon.com/gp/product/B09RKLX6RT/), 
+represented by the squares, you make a frame, 
+and put the panels on them, on the inside and outside, to stop sound from entering from outside, 
+and to keep sound from echoing around the room you are in.
+
 ## Ventalation
 
 I need two 4" inline fans, and a 4" flex hose, for intake and exhaust.
@@ -147,3 +159,11 @@ You have to design the front wall and add the mount for a monitor, this will als
 The walls must have seals, this is going to be part of a frame, this can be made of many materials, 
 Aluminum or Steel, we do not want to use wood, due to the bulk it would require to be strong enough, 
 this must hold the weight of the inside and outside room, plus the person inside it.
+
+## Sponsporship
+
+Sponspor can ask for custom videos and documentaion to use at their website.
+
+I ask for Parts and Material to make this project a reality.
+
+## End
