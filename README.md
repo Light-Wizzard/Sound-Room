@@ -135,13 +135,12 @@ and you can use a fanless computer.
 
 I need two 4" inline fans, and a 4" flex hose, for intake and exhaust.
 
-4" inline fans like these:
-[4" inline fans](https://www.amazon.com/SAILFLO-Booster-Bathroom-Basement-Greenhouse/dp/B07J5VN82X/), 
-[4" inline fans](https://www.amazon.com/gp/product/B08TM4KCLF/)
+4" inline fans like these cost around $30 with a speed controller:
+[4" inline fans]([https://www.amazon.com/SAILFLO-Booster-Bathroom-Basement-Greenhouse/dp/B07J5VN82X/](https://www.amazon.com/gp/product/B07ZL6FDYG/)), 
 
 ![4" Fan](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/fan.png)
 
-I need some 4" flexible tubing also known as a Dryer hose.
+I need some 4" flexible tubing also known as a Dryer hose are around $13 each.
 
 ![Dryer hose](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/hose.png)
 
