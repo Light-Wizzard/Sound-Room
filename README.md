@@ -14,19 +14,19 @@ the concept will include a boom mount for the recorder, and you use a laptop, sm
 
 ![Image 1](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0001.png)
 
-This image shows the side doors open.
+This shows the side doors closed.
 
 ![Image 2](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0002.png)
 
-This image shows you remove the front section, by opening up the top.
+This shows the side door open, while the inner door is closed.
 
 ![Image 3](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0003.png)
 
-Then store it on back.
+This shows both doors open.
 
 ![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0004.png)
 
-This shows it fully open.
+This show inner front section, outer door and side removed.
 
 ![Image 5](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0005.png)
 
@@ -150,6 +150,3 @@ You have to design the front wall and add the mount for a monitor, this will als
 The walls must have seals, this is going to be part of a frame, this can be made of many materials, 
 Aluminum or Steel, we do not want to use wood, due to the bulk it would require to be strong enough, 
 this must hold the weight of the inside and outside room, plus the person inside it.
-
-
-
