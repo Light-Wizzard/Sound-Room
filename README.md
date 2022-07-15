@@ -151,8 +151,17 @@ and to dampen what sounds are going through it.
 The size depends on your needs, mine are simple, I want a Sound Room that my recliner will fit into, and I can stand up, 
 so it needs to be 48" wide, 6' long, and 7' tall, on the outside, the inside is a few inches smaller, to allow a 1 inch air gap.
 
+Outside:
+
 1. Six 4'x7' outside panels
-2. 
+2. Two 4'x7' outside panels for sides
+3. Two 3'x7' outside panels for doors
+
+Inside:
+
+1. Two 3.666'x5.666' top and bottom panels
+2. Two 3.666'x6.71' front and back panels
+3. Four 3'xx6.71' sides and doors
 
 ## Construction
 
