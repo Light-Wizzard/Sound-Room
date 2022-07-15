@@ -7,9 +7,7 @@ represented by the squares, you make a frame,
 and put the panels on them, on the inside and outside, to stop sound from entering from outside, 
 and to keep sound from echoing around the room you are in.
 
-These images do not show the ventilation system yet.
-
-The first image is when the box is closed, it measures 6-foot tall by 4-foot wide, and a normal recliner fits inside,
+The first image is when the box is closed, it measures 7-foot tall by 4-foot wide, and a normal recliner fits inside,
 the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
 
 ![Image 1](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0001.png)
@@ -120,8 +118,7 @@ whereas the exhaust is taken from the top.
 ## Size
 
 The size depends on your needs, mine are simple, I want a Sound Room that my recliner will fit into, and I can stand up, 
-so it needs to be 48" wide, 6' long, and 6' tall, if you are taller, you might want to make it 8, but I am 5'9", 
-so 6 works for me, but make this fit your needs.
+so it needs to be 48" wide, 6' long, and 7' tall, on the outside, the inside is a few inches smaller, to allow a 1 inch air gap.
 
 ## Construction
 
