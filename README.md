@@ -1,8 +1,8 @@
 # Sound-Room
 
 Small Sound Room built around a recliner chair, with room to stand up, the concept is to have full isolation and sound dampening, 
-so a vocal or instrument sound booth, used to make audio recordings in, for audeo or video blogs, audeobooks, videos, 
-and other needs requiring a sound proof room.
+so a vocal or instrument sound booth is used to make audio recordings, for audio or video blogs, audiobooks, videos, 
+and other needs requiring a soundproof room.
 
 This is a Do it Yourself Project (DIY), designed for people who cannot afford a Sound Room.
 
@@ -17,7 +17,7 @@ Table of Content
 
 ### Pictures
 
-The first image is when the box is closed, it measures 7-foot tall by 4-foot wide, and a normal recliner fits inside,
+The first image is when the box is closed, it measures 7 feet tall by 4 feet wide, and a normal recliner fits inside,
 the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
 
 ![Image 1](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0001.png)
@@ -34,7 +34,7 @@ This shows both doors open, the inner door is a slider.
 
 ![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0004.png)
 
-This show inner front section, outer door and side removed.
+This shows the inner front section, outer door, and side removed.
 
 ![Image 5](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0005.png)
 
@@ -73,12 +73,12 @@ whatever works and is cheap.
 
 ## Concepts
 
-The main concept for Sound Proofing, is being relistic about what sounds you can remove,
+The main concept for Sound Proofing is being realistic about what sounds you can remove,
 I will talk about three types of sounds. 
 
 What most people think of as Sound Proof, is hearing nothing,
-that is goal, but not practical depending on the noise.
-I will call this Isolatoin, and we need to build a room inside a room to achich this.
+that is the goal, but not practical depending on the noise.
+I will call this Isolation, and we need to build a room inside a room to achieve this.
 
 The concept of Sound Proofing has three main goals:
 
@@ -91,7 +91,7 @@ we will make two rooms that mount together with an isolator spacer I show in blu
 
 **Reflection** is what causes an echo, even in a small room, you have sounds that bounce off the walls, 
 all you need is Soundproofing foam, and what most people think Soundproofing is,
-but this will not give any isolaton, and only add absorbtion of sound.
+but this will not give any isolation, and only add absorption of sound.
 
 **Background noise** is on the inside, this is your equipment, 
 and the ventilation system.
@@ -124,8 +124,8 @@ and to keep sound from echoing around the room you are in.
 
 ### Background
 
-You have to deal with each type of equipment noise as you use it, the best things is to start with everything off,
-and using a sound meter, measure the inside, while holding your breath, then turn on the intake, then then exhaust, 
+You have to deal with each type of equipment noise as you use it, the best thing is to start with everything off,
+and using a sound meter, measure the inside, while holding your breath, then turn on the intake, then the exhaust, 
 and use the variable speed controller to lower the sound, while still being able to breathe.
 
 If you have a laptop, you cannot get rid of the fan noise, so a Tablet or Smartphone is a better solution, 
@@ -140,7 +140,7 @@ I need two 4" inline fans, and a 4" flex hose, for intake and exhaust.
 
 ![4" Fan](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/fan.png)
 
-I need some 4" flexible tubing also known as a Dryer hose are around $13 each.
+I need some 4" flexible tubing also known as a Dryer hose is around $13 each.
 
 ![Dryer hose](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/hose.png)
 
@@ -149,13 +149,13 @@ whereas the exhaust is taken from the top.
 
 You will want to use a heavy wire to hold the hose in place, wire clothes hangers, or some type of holder.
 
-You want to use insulation, you want to fully cover all the hose with insulaton to prevent sound from proigating through it,
+You want to use insulation, you want to fully cover all the hose with insulation to prevent sound from propagating through it,
 and to dampen what sounds are going through it.
 
 ## Size
 
 The size depends on your needs, mine are simple, I want a Sound Room that my recliner will fit into, and I can stand up, 
-so it needs to be 48" wide, 6' long, and 7' tall, on the outside, the inside is a few inches smaller, to allow a 1 inch air gap.
+so it needs to be 48" wide, 6' long, and 7' tall, on the outside, the inside is a few inches smaller, to allow a 1-inch air gap.
 
 Outside:
 
@@ -190,19 +190,34 @@ but I want to use Neoprene Rubber to wrap this panel in,
 so if I wrap the fiberglass panels,
 I will have a better system.
 
-The Inside is called the Environment Room, this is suspended off of Neoprene spacers,and the outside must only connect to it, using these Sound decoupling spacers.
-You have to design the front wall and add the mount for a monitor, this will also require exhaust air for heat, which will require a heat collector and a holder for a boom microphone, so this panel is what you will be looking at all day, and with no Windows, hang a Picture of outside, but I will not put a glass window to see through in a Sound Room, it defeats the purpose of a Sound Room, why not make a Glass soundproof box.
+The Inside is called the Environment Room, this is suspended off of Neoprene spacers, and the outside must only connect to it, using these Sound decoupling spacers.
+You have to design the front and back wall to add the mount for a monitor, depending on which way you want to look at it, this will also require exhaust air for heat, which will require a heat collector and a holder for a boom microphone, so this panel is what you will be looking at all day, and with no Windows, hang a Picture of outside, but I will not put a glass window to see through in a Sound Room, 
+it defeats the purpose of a Sound Room, why not make a Glass soundproof box, it will not sound good.
+
+The choices of material will be based on cost, and what works for you, all I can show you is what I used,
+but this design is very flexible, and you can design it any way you want.
+
+If you do not make an Isolation room, you will hear sounds from outside, 
+and if you pick too thin of Neoprene, you might not have a high enough dampening rating,
+so I would add a layer to the outside of the inside room.
 
 The walls must have seals, this is going to be part of a frame, this can be made of many materials, 
 Aluminum or Steel, we do not want to use wood, due to the bulk it would require to be strong enough, 
 this must hold the weight of the inside and outside room, plus the person inside it.
 
-I will not be able to document much more without building it, so this is where this project sits, till I can get parts to work on it.
+I will not be able to document much more without building it, so this is where this project sits, till I can get parts to work on it,
+because that is when I will have to deal with making with the parts I have.
 
-## Sponsporship
+## Sponsorship
 
-Sponspor can ask for custom videos and documentaion to use at their website.
+I am a medically retired United States Air Force Staff Sargent, Jeffrey Scott Flesher, who worked in Avionics,
+and later on, as a Helicopter Crew Cheif for Air Rescue and Special Operations, you will find my Biography below, 
+it comes from a Ph.D. degree in Physics.
 
-I ask for Parts and Material to make this project a reality.
+[http://lightwizzard.com/books/trinary.universe/references.html#reference_jeffrey_scott_flesher](http://lightwizzard.com/books/trinary.universe/references.html#reference_jeffrey_scott_flesher)
+
+The sponsor can ask for custom videos and documentation to use on their website.
+
+I ask for Parts and Materials to make this project a reality.
 
 ## End
