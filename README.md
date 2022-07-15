@@ -1,4 +1,4 @@
-# Sound-Room
+# Sound Room
 
 Small Sound Room built around a recliner chair, with room to stand up, the concept is to have full isolation and sound dampening, 
 so a vocal or instrument sound booth is used to make audio recordings, for audio or video blogs, audiobooks, videos, 
