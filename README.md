@@ -43,7 +43,7 @@ This is a Do it Yourself Project (DIY), designed for people who cannot afford a 
 7. [Sponsporship](#Sponsporship)
 
 
-### Pictures
+## Pictures
 
 The first image is when the box is closed, it measures 7 feet tall by 4 feet wide, and a normal recliner fits inside,
 the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
