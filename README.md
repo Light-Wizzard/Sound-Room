@@ -1,7 +1,10 @@
 # Sound-Room
 
-Small Sound Room built around a recliner chair, the concept is to have full isolation and sound dampening, so a vocal or instrument sound booth, 
-used to make audio recordings in, for audeo or video blogs, audeobooks, videos, and other needs requiring a sound proof room.
+Small Sound Room built around a recliner chair, with room to stand up, the concept is to have full isolation and sound dampening, 
+so a vocal or instrument sound booth, used to make audio recordings in, for audeo or video blogs, audeobooks, videos, 
+and other needs requiring a sound proof room.
+
+This is a Do it Yourself Project (DIY), designed for people who cannot afford a Sound Room.
 
 Table of Content
 1. [Pictures](#Pictures)
@@ -109,6 +112,8 @@ You will want to use Neoprene Rubber to make an Airtight outer room.
 
 American Material Supply
 [https://americanmaterialsupply.com/collections/neoprene-rubber-roll](https://americanmaterialsupply.com/collections/neoprene-rubber-roll)
+
+The thicker the better, but the cost goes up, for <sup>1</sup>/<sub>32</sub> low grade, you are looking around $120 plus shipping.
 
 ### Reflection
 
