@@ -197,6 +197,8 @@ The walls must have seals, this is going to be part of a frame, this can be made
 Aluminum or Steel, we do not want to use wood, due to the bulk it would require to be strong enough, 
 this must hold the weight of the inside and outside room, plus the person inside it.
 
+I will not be able to document much more without building it, so this is where this project sits, till I can get parts to work on it.
+
 ## Sponsporship
 
 Sponspor can ask for custom videos and documentaion to use at their website.
