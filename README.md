@@ -1,6 +1,7 @@
 # Sound-Room
 
-Small Sound Room built around a recliner chair.
+Small Sound Room built around a recliner chair, the concept is to have full isolation and sound dampening, so a vocal or instrument sound booth, 
+used to make audio recordings in, for audeo or video blogs, audeobooks, videos, and other needs requiring a sound proof room.
 
 Table of Content
 1. [Pictures](#Pictures)
@@ -12,6 +13,7 @@ Table of Content
 
 
 ### Pictures
+
 The first image is when the box is closed, it measures 7-foot tall by 4-foot wide, and a normal recliner fits inside,
 the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
 
