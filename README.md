@@ -25,7 +25,7 @@ This shows the side door open, while the inner door is closed.
 
 ![Image 3](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0003.png)
 
-This shows both doors open.
+This shows both doors open, the inner door is a slider.
 
 ![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0004.png)
 
