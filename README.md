@@ -11,7 +11,7 @@ Why do you want quiet? Audio recording.
 
 Everyone on this planet would like to have a room like the one being built in this GitHub Project, for one reason, it has a recliner, it has a large screen display, I can crank up the sound, and no one outside the box, can hear what is being blasted inside the box, and it works both ways, step into quiet, just sit there and listen to the noise in your head, and your breathing, other than that, you only bring what makes noise into this space.
 
-You have three problems with sound, and why you need this Sound Room, it is small at 4 feet wide, 7 feet long, and 7 feet tall, it is a box, with a box inside it, the outside door closes from both sides, no locks, this is for safety in case you pass out, the only air is being piped in, and you should have oxygen and CO2 monitor in this space, you can get them cheap enough, accuracy is one issue, the cost is the other, but for safety reasons, I have to assume you have one and warn to never get into a closed space, without one, that said, I will write a section devoted to this. 
+You have three problems with sound, and why you need this Sound Room, it is small at 5 feet wide, 7 feet long, and 7 feet tall, it is a box, with a box inside it, the outside door closes from both sides, no locks, this is for safety in case you pass out, the only air is being piped in, and you should have oxygen and CO2 monitor in this space, you can get them cheap enough, accuracy is one issue, the cost is the other, but for safety reasons, I have to assume you have one and warn to never get into a closed space, without one, that said, I will write a section devoted to this. 
 
 The ventilation system should deal with this issue, you have intake and exhaust, and only one needs to work, so you have a redundant system, plus you can adjust them differently, so you add a filter, and breathe clean air, making this a clean room, so there is a huge health benefit to this box.
 The reason you want to have a sound room is personal, entertainment room to be used as a game, tv, computer, internet room, to using it professionally for video conference, video blog, audio blog, audiobooks, or even making private phone calls. 
@@ -187,8 +187,8 @@ so it needs to be 48" wide, 6' long, and 7' tall, on the outside, the inside is 
 
 Outside:
 
-1. Six 4'x7' outside panels
-2. Two 4'x7' outside panels for sides
+1. Six 5'x7' outside panels
+2. Two 5'x7' outside panels for sides
 3. Two 3'x7' outside panels for doors
 
 Inside:
