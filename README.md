@@ -164,11 +164,11 @@ and you can use a fanless computer.
 I need two 4" inline fans, and a 4" flex hose, for intake and exhaust.
 
 4" inline fans like these cost around $30 with a speed controller:
-[4" inline fans]([https://www.amazon.com/SAILFLO-Booster-Bathroom-Basement-Greenhouse/dp/B07J5VN82X/](https://www.amazon.com/gp/product/B07ZL6FDYG/)), 
+[4" inline fans](https://www.amazon.com/gp/product/B07ZL6FDYG), 
 
 ![4" Fan](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/fan.png)
 
-I need some 4" flexible tubing also known as a Dryer hose is around $13 each.
+I need some 4"x25' flexible tubing also known as a [Dryer hose](https://www.amazon.com/gp/product/B071LHCFZ8) is around $20 each.
 
 ![Dryer hose](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/hose.png)
 
@@ -183,19 +183,20 @@ and to dampen what sounds are going through it.
 ## Size
 
 The size depends on your needs, mine are simple, I want a Sound Room that my recliner will fit into, and I can stand up, 
-so it needs to be 48" wide, 6' long, and 7' tall, on the outside, the inside is a few inches smaller, to allow a 1-inch air gap.
+so it needs to be 5' wide, 6' long, and 7' tall, on the outside, the inside is a few inches smaller, to allow a 1-inch air gap.
 
 Outside:
 
-1. Six 5'x7' outside panels
-2. Two 5'x7' outside panels for sides
-3. Two 3'x7' outside panels for doors
+1. Six 5.5'x7.33' outside panels
+2. One 5.5'x7.33' outside panel for side
+3. One 3.74'x7.33' outside panel for door
+4. One 7.3'x7.41' outside panel for side
 
 Inside:
 
-1. Two 3.666'x5.666' top and bottom panels
-2. Two 3.666'x6.71' front and back panels
-3. Four 3'xx6.71' sides and doors
+1. Two 3'x6' top and bottom panels
+2. Three 5'x6' front and back panels
+3. One 3'x6' side slider door
 
 ## Construction
 
