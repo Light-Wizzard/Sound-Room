@@ -45,32 +45,32 @@ This is a Do it Yourself Project (DIY), designed for people who cannot afford a 
 
 ## Pictures
 
-The first image is when the box is closed, it measures 7 feet tall by 4 feet wide, and a normal recliner fits inside,
+The first image is when the box is closed, it measures 7 feet tall by 5 feet wide, and a normal recliner fits inside,
 the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
 
 ![Image 1](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0001.png)
 
-This shows the side doors closed.
+This shows the side door open and inner slider door closed.
 
 ![Image 2](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0002.png)
 
-This shows the side door open, while the inner door is closed.
+This shows both door open.
 
 ![Image 3](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0003.png)
 
-This shows both doors open, the inner door is a slider.
+This shown with panels removed so you can see the inside.
 
 ![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0004.png)
 
-This shows the inner front section, outer door, and side removed.
+This shows the inner front section.
 
 ![Image 5](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0005.png)
 
-Back of unit.
+This shows the inner front section, with the outer door, and side removed.
 
 ![Image 6](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0006.png)
 
-Ventilation System.
+Ventilation System in the front.
 
 ![Image 7](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0007.png)
 
