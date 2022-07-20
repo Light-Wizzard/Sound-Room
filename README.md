@@ -83,6 +83,7 @@ Things that will be included in this design:
 * Microphone boom
 * Microphone holder
 * Laptop, Smartphone, or Tablet holder
+* Monitor
 
 The soundproofing panels attach to a frame, this can plywood, or plastic, it requires an air gap,
 so you need two panels, plus you need to attach the soundproofing on the inside and outside.
@@ -238,6 +239,11 @@ this must hold the weight of the inside and outside room, plus the person inside
 
 I will not be able to document much more without building it, so this is where this project sits, till I can get parts to work on it,
 because that is when I will have to deal with making with the parts I have.
+
+### Doors
+
+Outside Door has adjustable hinges, and an adjustable dead bolt system, 
+to allow adjusting how much pressure you put on the seals.
 
 ## Sponsorship
 
