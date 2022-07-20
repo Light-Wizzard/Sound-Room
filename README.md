@@ -45,7 +45,7 @@ This is a Do it Yourself Project (DIY), designed for people who cannot afford a 
 
 ## Pictures
 
-The first image is when the box is closed, it measures 7 feet tall by 5 feet wide, and a normal recliner fits inside,
+The first image is when the box is closed, it measures 7 feet long by 5 feet wide, and a normal recliner fits inside,
 the concept will include a boom mount for the recorder, and you use a laptop, smartphone, or tablet to read from.
 
 ![Image 1](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0001.png)
