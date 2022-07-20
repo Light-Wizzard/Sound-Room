@@ -136,6 +136,8 @@ but without the proper isolation, you still have loud sounds.
 
 ### Isolation
 
+A Room within a Room (RWAR) is the concept I will using to isolate the outside from the inside.
+
 You will want to use Neoprene Rubber to make an Airtight outer room.
 
 American Material Supply
