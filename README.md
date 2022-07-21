@@ -52,27 +52,27 @@ the concept will include a boom mount for the recorder, and you use a laptop, sm
 
 This shows the side door open, the inner slider door closed, and the Neoprene Sound wall sliding forward.
 
-![Image 2](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0002.png)
+![Image 2](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/5x7/sr-0002.png)
 
 This shows the outside door open, Neoprene sliding back, and the inner door closed.
 
-![Image 3](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0003.png)
+![Image 3](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/5x7/sr-0003.png)
 
 This shows all 3 doors open, and the back panel removed to see ventilation hoses.
 
-![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0004.png)
+![Image 4](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/5x7/sr-0004.png)
 
 This shows the inner front section.
 
-![Image 5](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0005.png)
+![Image 5](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/5x7/sr-0005.png)
 
 This shows the inner front section, with the outer door, and side removed.
 
-![Image 6](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0006.png)
+![Image 6](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/5x7/sr-0006.png)
 
 Ventilation System in the front.
 
-![Image 7](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/sr-0007.png)
+![Image 7](https://github.com/Light-Wizzard/Sound-Room/blob/main/images/5x7/sr-0007.png)
 
 ## Features
 
